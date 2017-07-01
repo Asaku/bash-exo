@@ -1,0 +1,1 @@
+echo "le double est: $(($1*2))"
